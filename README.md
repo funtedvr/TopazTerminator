@@ -69,3 +69,4 @@ v11 == 4
 
 And then you can use DeviceIoControl with the IOCTL code to terminate the process you want (including PPL processes)
 
+Last tested on Windows Version 25H2!
